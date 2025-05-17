@@ -1,5 +1,7 @@
 This project is a comprehensive banking data analysis dashboard developed in Microsoft Power BI. It demonstrates real-world data modeling and visualization techniques by integrating multiple analytical modules into a cohesive reporting solution. The dashboard leverages advanced data transformations, DAX measures, and interactive visuals to provide detailed insights into banking operations, customer behavior, and overall financial performance.
 
+
+
 Project Overview
 The dashboard is built using Power BI Desktop and encompasses a variety of analyses that answer critical business questions related to customer demographics, branch performance, transaction behavior, and risk assessment. The primary objectives of the dashboard include:
 
@@ -43,9 +45,6 @@ The risk model offers a clear segmentation of customer risk, aiding in proactive
 
 Customer Segmentation:
 Demographic analyses allow for targeted marketing and customer engagement strategies, ensuring that different customer groups receive tailored services that meet their needs.
-
-Forecasting and Planning:
-Future trends in account growth and transaction volumes are forecasted using historical data, providing crucial information for strategic planning and decision-making.
 
 Conclusion
 Overall, this Power BI dashboard serves as an end-to-end analytics solution for a banking institution, combining traditional business intelligence with advanced predictive analytics. It empowers stakeholders with actionable insights, supports data-driven decision-making, and establishes a solid foundation for ongoing performance monitoring and strategic planning.
