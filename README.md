@@ -18,7 +18,7 @@ Through scatter plots and trendline analyses, the dashboard examines the relatio
 
 >> Risk Assessment:
 Using advanced DAX calculations, a risk assessment model was developed. This model combines factors like low credit scores, low balances, and low transaction activity into a composite risk score. Customers are then categorized into risk levels (No Risk, Low, Moderate, High), which can be used for proactive engagement and targeted customer support.
-![Alt Text](images/your-image.png)
+![Alt Text](https://github.com/Shankar0002/-Banking-Data-Analysis-Dashboard-FinInsight-Group/blob/main/risk_asessment.png?raw=true)
 
 >> Demographic and Transaction Behavior Analysis:
 The dashboard extracts key customer demographic details (such as employment sector, years at current residence, and city of residence) from semi-structured data fields. These are used to analyze and compare transaction behavior across different demographic segments, helping inform marketing strategies and customer relationship management.
