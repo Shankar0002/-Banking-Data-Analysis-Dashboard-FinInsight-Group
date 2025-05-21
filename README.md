@@ -1,6 +1,4 @@
-## This project is a comprehensive banking data analysis dashboard developed in Microsoft Power BI. It demonstrates real-world data modeling and visualization techniques by integrating multiple analytical modules into a cohesive reporting solution. The dashboard leverages advanced data transformations, DAX measures, and interactive visuals to provide detailed insights into banking operations, customer behavior, and overall financial performance.
-
-
+# This project is a comprehensive banking data analysis dashboard developed in Microsoft Power BI. It demonstrates real-world data modeling and visualization techniques by integrating multiple analytical modules into a cohesive reporting solution. The dashboard leverages advanced data transformations, DAX measures, and interactive visuals to provide detailed insights into banking operations, customer behavior, and overall financial performance.
 
 ## Project Overview
 The dashboard is built using Power BI Desktop and encompasses a variety of analyses that answer critical business questions related to customer demographics, branch performance, transaction behavior, and risk assessment. The primary objectives of the dashboard include:
