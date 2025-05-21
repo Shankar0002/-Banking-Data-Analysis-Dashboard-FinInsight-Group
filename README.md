@@ -2,7 +2,7 @@
 
 ## Project Overview
 The dashboard is built using Power BI Desktop and encompasses a variety of analyses that answer critical business questions related to customer demographics, branch performance, transaction behavior, and risk assessment. The primary objectives of the dashboard include:
-![Dashboard](https://i.imgur.com/yourimageid.png)
+![Dashboard]([https://i.imgur.com/yourimageid.png](https://github.com/Shankar0002/-Banking-Data-Analysis-Dashboard-FinInsight-Group/blob/367f7a61fabfdfd29dfdc6cf452254ebf5b66ed5/Dashboard.png))
 
 >> Customer and Account Analysis:
 Evaluate account balances, transaction volumes, and risk metrics to segment customers, identify high-value segments, and recommend targeted financial products.
