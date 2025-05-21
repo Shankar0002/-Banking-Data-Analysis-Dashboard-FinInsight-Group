@@ -22,7 +22,7 @@ Using advanced DAX calculations, a risk assessment model was developed. This mod
 
 >> Demographic and Transaction Behavior Analysis:
 The dashboard extracts key customer demographic details (such as employment sector, years at current residence, and city of residence) from semi-structured data fields. These are used to analyze and compare transaction behavior across different demographic segments, helping inform marketing strategies and customer relationship management.
- ![Alt Text]([images/your-image.png](https://github.com/Shankar0002/-Banking-Data-Analysis-Dashboard-FinInsight-Group/blob/main/demographic_powerbi.png?raw=true))
+ ![Alt Text]([https://github.com/Shankar0002/-Banking-Data-Analysis-Dashboard-FinInsight-Group/blob/main/demographic_powerbi.png?raw=true)
 
 >> Technical Methodologies
 Data Transformation:
