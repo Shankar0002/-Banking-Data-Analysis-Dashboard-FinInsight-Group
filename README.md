@@ -24,11 +24,12 @@ Using advanced DAX calculations, a risk assessment model was developed. This mod
 >> Demographic and Transaction Behavior Analysis:
 The dashboard extracts key customer demographic details (such as employment sector, years at current residence, and city of residence) from semi-structured data fields. These are used to analyze and compare transaction behavior across different demographic segments, helping inform marketing strategies and customer relationship management.
  ![Alt Text](https://github.com/Shankar0002/-Banking-Data-Analysis-Dashboard-FinInsight-Group/blob/main/demographic_powerbi.png?raw=true)
- ![Alt Text](https://github.com/Shankar0002/-Banking-Data-Analysis-Dashboard-FinInsight-Group/blob/main/power_bi_.png?raw=true)
+
 
 >> Technical Methodologies
 Data Transformation:
 Power Query is used extensively to split and clean semi-structured fields (e.g., AccountHolderDetails) into separate columns. This transformation allows for precise filtering, grouping, and segmentation.
+ ![Alt Text](https://github.com/Shankar0002/-Banking-Data-Analysis-Dashboard-FinInsight-Group/blob/main/power_bi_.png?raw=true)
 
 >> DAX Modeling:
 Measures and calculated columns are created using DAX to compute summary statistics (such as total transaction counts, average balances, and risk scores), and to develop predictive models. Advanced functions like CALCULATE(), FILTER(), and DATEDIFF() form the core of our risk and forecasting models.
