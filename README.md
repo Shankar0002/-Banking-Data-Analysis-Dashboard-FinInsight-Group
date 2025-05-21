@@ -16,14 +16,13 @@ To ensure consistency in reporting, all transactions are converted into a standa
 >> Correlation Analyses:
 Through scatter plots and trendline analyses, the dashboard examines the relationships between various key performance indicators – such as interest rates versus account balances, and credit scores versus loan amounts – to assess if and how these metrics correlate.
 
->> Time Series and Predictive Modeling:
-Time series forecasting techniques (utilizing built-in Power BI forecasting features) are applied to historical transaction data to predict future trends. Additionally, a simple linear trend model predicts future account growth, assisting the bank in planning for demand and resource management.
-
 >> Risk Assessment:
 Using advanced DAX calculations, a risk assessment model was developed. This model combines factors like low credit scores, low balances, and low transaction activity into a composite risk score. Customers are then categorized into risk levels (No Risk, Low, Moderate, High), which can be used for proactive engagement and targeted customer support.
+![Alt Text](images/your-image.png)
 
 >> Demographic and Transaction Behavior Analysis:
 The dashboard extracts key customer demographic details (such as employment sector, years at current residence, and city of residence) from semi-structured data fields. These are used to analyze and compare transaction behavior across different demographic segments, helping inform marketing strategies and customer relationship management.
+ ![Alt Text](images/your-image.png)
 
 >> Technical Methodologies
 Data Transformation:
@@ -41,6 +40,7 @@ By identifying branches with the highest activity and transaction values, the da
 
 >> Risk Management:
 The risk model offers a clear segmentation of customer risk, aiding in proactive risk management and the customization of financial products such as credit facilities and loan offerings.
+
 
 >> Customer Segmentation:
 Demographic analyses allow for targeted marketing and customer engagement strategies, ensuring that different customer groups receive tailored services that meet their needs.
